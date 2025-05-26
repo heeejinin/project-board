@@ -10,6 +10,6 @@ public class AdminController {
 
   @GetMapping
   public String adminP() {
-    return "Admin: Controller";
+    return "Admin Controller";
   }
 }
